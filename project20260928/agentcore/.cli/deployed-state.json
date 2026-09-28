@@ -1,3 +1,22 @@
 {
-  "targets": {}
+  "targets": {
+    "default": {
+      "resources": {
+        "runtimes": {
+          "MyAgent1": {
+            "runtimeId": "project20260928_MyAgent1-VA5Gsh9Nrx",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:526015996414:runtime/project20260928_MyAgent1-VA5Gsh9Nrx",
+            "roleArn": "arn:aws:iam::526015996414:role/AgentCore-project20260928-ApplicationAgentMyAgent1R-6rNjVuMhvo9i"
+          },
+          "MyAgent": {
+            "runtimeId": "project20260928_MyAgent-N4lEnDBX3e",
+            "runtimeArn": "arn:aws:bedrock-agentcore:us-east-1:526015996414:runtime/project20260928_MyAgent-N4lEnDBX3e",
+            "roleArn": "arn:aws:iam::526015996414:role/AgentCore-project20260928-ApplicationAgentMyAgentRu-6DA0hhYNmr2m"
+          }
+        },
+        "stackName": "AgentCore-project20260928-default",
+        "deployHash": "0c85eb7d9c64c196"
+      }
+    }
+  }
 }
