@@ -6,6 +6,7 @@
 
 ## Class links
 - [What is agentic ai?](https://aws.amazon.com/what-is/agentic-ai/)
+- [REAC T: SYNERGIZING REASONING AND ACTING IN LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629)
 - [What is RAG?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
 - [Agentcore Overview](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
 - Frameworks
@@ -23,3 +24,7 @@
 - Deployment
     - [Agentcore CLI](https://github.com/aws/agentcore-cli)
     - **DEPRECATED** [Agentcore starter toolikt](https://github.com/aws/bedrock-agentcore-starter-toolkit)
+- Research about memory
+    - [Memory in the Age of AI Agents: A Survey](https://arxiv.org/pdf/2512.13564)
+    - [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://arxiv.org/pdf/2601.01885)
+    - [Memory for Autonomous LLM Agents:Mechanisms, Evaluation, and Emerging Frontiers](https://arxiv.org/pdf/2603.07670)
