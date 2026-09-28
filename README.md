@@ -7,3 +7,4 @@
 ## Class links
 - [What is agentic ai?](https://aws.amazon.com/what-is/agentic-ai/)
 - [What is RAG?](https://aws.amazon.com/what-is/retrieval-augmented-generation/)
+- [Agentcore Overview](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/what-is-bedrock-agentcore.html)
