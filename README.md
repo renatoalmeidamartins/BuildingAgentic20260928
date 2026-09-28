@@ -2,7 +2,7 @@
 
 ## Course material, survey and contact details
 - [Access to lab and course materials](https://us-east-1.student.classrooms.aws.training/class/ilt%231BjCiyET5sNyMbinoJQTZv)
-
+- [MyClass](https://myclass.skillbuilder.aws/), you can fill the survey. The course shows up as "past class", and this allows you to fill the survey.  
 
 ## Class links
 - [What is agentic ai?](https://aws.amazon.com/what-is/agentic-ai/)
@@ -35,3 +35,16 @@
 - [Operations for short-term memory](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/using-memory-short-term.html)
 - [Amazon Bedrock AgentCore payments is now generally available: Enabling agents to transact safely and autonomously at scale](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-payments-is-now-generally-available-enabling-agents-to-transact-safely-and-autonomously-at-scale/)
 - [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/)
+- [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/2026-07-28/getting-started/intro)
+- [Open source MCP servers for AWS](https://github.com/awslabs/mcp)
+- [Microsoft MCP Servers](https://github.com/microsoft/mcp)
+- [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
+- [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+- [Search for tools in your AgentCore gateway with a natural language query](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway-using-mcp-semantic-search.html)
+- [MCP Proxy for AWS](https://github.com/aws/mcp-proxy-for-aws), needed when:
+    - You want to connect to MCP servers on AWS (e.g., using Amazon Bedrock AgentCore) that use AWS IAM authentication (SigV4) instead of OAuth
+    - You're using MCP clients (like Claude Desktop, Kiro CLI) that don't natively support AWS IAM authentication
+    - You're building AI agents with popular frameworks like LangChain, Strands Agents, LlamaIndex, etc., that need to connect to MCP servers on AWS
+    - You want to avoid building custom SigV4 request signing logic yourself
+- [Prompt templates for Agentcore evaluations](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/prompt-templates-builtin.html)
+- [Add observability to your Amazon Bedrock AgentCore resources](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/observability-configure.html)
